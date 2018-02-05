@@ -56,12 +56,17 @@ Por favor envie um email para email@email.com.br com seu CV anexado - enviar no 
 
 ## Labels
 
-- LT
-- PJ
-- Presencial
-- Remoto
-- Freela
-- Estágio
-- Junior
-- Pleno
-- Senior
+- alocação/Flexível
+- alocação/Presencial
+- alicação/Remoto
+- experiência/Estágio
+- experiência/Júnior
+- experiência/Pleno
+- experiência/Sênior
+- regime/A-Combinar
+- regime/CLT
+- regime/Estágio
+- regime/Freela
+- regime/Outros
+- regime/PJ
+
