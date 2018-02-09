@@ -27,8 +27,11 @@ para diferentes _stacks_ e estados do país. Confira abaixo as outras
 listas onde você poderá postar sua vaga:
 
 - [Vagas para desenvolvedores Frontend](https://github.com/frontendbr/vagas)
-
  
+### Então sua empresa é brasileira e usa React?!
+
+Neste caso, seria bem interessante você abrir um pull-request neste repositório: [Empresas que usam React no Brasil](https://github.com/react-brasil/empresas-que-usam-react-no-brasil). Esta é uma forma alternativa de ser encontrado por pessoas que querem trabalhar com React ou tecnologias do mesmo ecosistema.
+
 ## Licença
 
 [MIT]
