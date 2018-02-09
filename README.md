@@ -6,7 +6,7 @@ Vagas disponíveis em https://github.com/react-brasil/vagas/issues
 
 ### Cadastrando uma vaga
 
-Abra uma **issue** e, no titulo desta _issue_, coloque o nome da cidade entre colchetes seguido do nome da vaga.
+Abra uma [issue](https://github.com/react-brasil/vagas/issues/new) e, no titulo desta _issue_, coloque o nome da cidade entre colchetes seguido do nome da vaga.
 
 Exemplo: `[São Paulo] Desenvolvedor FullStack Javascript`
 
