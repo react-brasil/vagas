@@ -12,7 +12,7 @@ Exemplo: `[São Paulo] Desenvolvedor FullStack Javascript`
 
 Adicione _labels_ contendo o nível de experiência desejada e a forma de contração.
 
-**Atenção**: Não aceitaremos vagas sem o nome da empresa contratante. Não são permitidas repostagem da mesma vaga pra ganhar topo da lista.
+**Atenção**: Não aceitaremos vagas sem o nome da empresa contratante. Não são permitidas repostagens de uma mesma vaga com o objetivo de ganhar topo da lista.
 
 #### Importante
 
