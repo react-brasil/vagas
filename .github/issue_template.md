@@ -58,7 +58,7 @@ Por favor envie um email para email@email.com.br com seu CV anexado - enviar no 
 
 - alocação/Flexível
 - alocação/Presencial
-- alicação/Remoto
+- alocação/Remoto
 - experiência/Estágio
 - experiência/Júnior
 - experiência/Pleno
