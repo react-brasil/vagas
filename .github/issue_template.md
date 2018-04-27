@@ -1,6 +1,6 @@
 <!--
 ==================================================
-POR FAVOR, SÓ POSTE SE A VAGA FOR PARA TRABALHAR COM REACT OU TECNOLOGIAS DO ECOSISTEMA!
+POR FAVOR, SÓ POSTE SE A VAGA FOR PARA TRABALHAR COM REACT OU TECNOLOGIAS DO ECOSSISTEMA!
 
 Exemplo: `[São Paulo] React Native Developer na NOME DA EMPRESA`
 ==================================================
