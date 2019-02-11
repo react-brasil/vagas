@@ -69,4 +69,8 @@ Por favor envie um email para email@email.com.br com seu CV anexado - enviar no 
 - regime/Freela
 - regime/Outros
 - regime/PJ
-
+- remuneração/1k-3k
+- remuneração/3k-5k
+- remuneração/5k-10k
+- remuneração/10k-15k
+- remuneração/15k+
