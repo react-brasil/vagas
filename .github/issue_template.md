@@ -56,21 +56,21 @@ Por favor envie um email para email@email.com.br com seu CV anexado - enviar no 
 
 ## Labels
 
-- alocação/Flexível
-- alocação/Presencial
-- alocação/Remoto
-- experiência/Estágio
-- experiência/Júnior
-- experiência/Pleno
-- experiência/Sênior
-- regime/A-Combinar
-- regime/CLT
-- regime/Estágio
-- regime/Freela
-- regime/Outros
-- regime/PJ
-- remuneração/1k-3k
-- remuneração/3k-5k
-- remuneração/5k-10k
-- remuneração/10k-15k
-- remuneração/15k+
+- 🏢 Flexível
+- 🏢 Presencial
+- 🏢 Remoto
+- 👶 Estágio
+- 👦 Júnior
+- 👨 Pleno
+- 👴 Sênior
+- ⚖️ A-Combinar
+- ⚖️ CLT
+- ⚖️ Estágio
+- ⚖️ Freela
+- ⚖️ Outros
+- ⚖️ PJ
+- 💰 1k-3k
+- 💰 3k-5k
+- 💰 5k-10k
+- 💰 10k-15k
+- 💰 15k+
