@@ -25,9 +25,10 @@ staleLabel: stale
 
 # Comment to post when marking as stale. Set to `false` to disable
 markComment: >
-  This issue has been automatically marked as stale because it has not had
-  recent activity. It will be closed if no further activity occurs. Thank you
-  for your contributions.
+  Essa issue foi marcada como inativa por não ter nenhuma atividade recente. A vaga
+  ainda está disponível?
+  Caso não haja nenhuma atividade esta issue será fechada nos próximos 7 dias.
+  Obrigado por contribuir.
 
 # Comment to post when removing the stale label.
 # unmarkComment: >
