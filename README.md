@@ -26,7 +26,8 @@ da comunidade forkaram esse repositório e criaram outras listas específicas
 para diferentes _stacks_ e estados do país. Confira abaixo as outras
 listas onde você poderá postar sua vaga:
 
-- [Vagas para desenvolvedores Frontend](https://github.com/frontendbr/vagas)
+- [Vagas para desenvolvedores(as) Frontend](https://github.com/frontendbr/vagas)
+- [Vagas para desenvolvedores(as) Go/Golang](https://github.com/Gommunity/vagas)
  
 ### Então sua empresa é brasileira e usa React?!
 
