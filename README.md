@@ -38,4 +38,4 @@ Neste caso, seria bem interessante você abrir um pull-request neste repositóri
 [MIT]
 
 ## Slack
-http://react-brasil-slack.herokuapp.com/
+https://react.now.sh (+6k membros!)
