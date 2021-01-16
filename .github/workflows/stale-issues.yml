@@ -1,0 +1,16 @@
+name: "Close stale issues"
+on:
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  stale:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/stale@v1
+        with:
+          repo-token: ${{ secrets.GITHUB_ACTIONS }}
+          stale-issue-message: "Essa issue foi marcada como inativa por não ter nenhuma atividade recente. A vaga ainda está disponível? Caso não haja nenhuma atividade, esta issue será fechada nos próximos 7 dias. Obrigado por contribuir."
+          days-before-stale: 60
+          days-before-close: 7
+          exempt-issue-labels: "pinned"
