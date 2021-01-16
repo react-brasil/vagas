@@ -1,0 +1,13 @@
+name: Labeling new issue
+on:
+  issues:
+    types: ["opened"]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Renato66/auto-label@v2
+        with:
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          labels-synonyms: '{"⚖️ A-Combinar":["A-Combinar"],"⚖️ CLT":["CLT"],"⚖️ Estágio":["Estágio"],"👶 Estágio":["Estágio"],"🏢 Flexível":["Flexível"],"🏢 Fora-do-país":["Fora-do-país"],"⚖️ Freela":["Freela"],"👦 Junior":["Júnior"],"⚖️ Outros":["Outros"],"⚖️ PJ":["PJ"],"👨 Pleno":["Pleno"],"🏢 Presencial":["Presencial"],"🏢 Remoto":["Remoto"],"👴 Senior":["Sênior"],"💰 1k-3k":["1k-3k"],"💰 3k-5k":["3k-5k"],"💰 5k-10k":["5k-10k"],"💰 10k-15k":["10k-15k"],"💰 15k+":["15k"]}'
+          labels-not-allowed: '["stale","pinned","faltam-informações"]'
