@@ -7,9 +7,9 @@ jobs:
   stale:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/stale@v1
+      - uses: actions/stale@v3
         with:
-          repo-token: ${{ secrets.GITHUB_ACTIONS }}
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
           stale-issue-message: "Essa issue foi marcada como inativa por não ter nenhuma atividade recente. A vaga ainda está disponível? Caso não haja nenhuma atividade, esta issue será fechada nos próximos 7 dias. Obrigado por contribuir."
           days-before-stale: 60
           days-before-close: 7
