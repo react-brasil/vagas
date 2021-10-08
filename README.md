@@ -57,5 +57,5 @@ Neste caso, seria bem interessante você abrir um pull-request neste repositóri
 
 [MIT]
 
-## Slack
-https://react.now.sh (+11k membros!)
+## Slack da Comunidade
+https://react.now.sh (+14k membros!)
