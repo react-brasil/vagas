@@ -37,7 +37,7 @@ Com o objetivo de manter a qualidade das vagas postadas e respeitar todas as pes
 
 1. Vagas sem o nome da empresa.
 2. Vagas de terceiros que não informem o nome da empresa na qual o(a) candidato(a) irá trabalhar.
-3. Vagas com informações faltantes e/ou fora do [modelo da issue](./.github/ISSUE_TEMPLATE/adicionar-nova-vaga.md).
+3. Vagas com informações faltantes e/ou fora do [modelo da issue](https://github.com/react-brasil/vagas/blob/master/.github/issue_template.md).
 4. Mais do que 2 (duas) vagas IGUAIS da mesma empresa POR MÊS.
 
 ❗️ **Caso algum desses itens seja infringido, a moderação poderá alertar na issue ou até mesmo a vaga poderá ser DELETADA sem aviso prévio.**
