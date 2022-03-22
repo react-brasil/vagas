@@ -56,7 +56,7 @@ Você pode receber atualizações das vagas no seu email ou via notificações d
 Neste caso, seria bem interessante você abrir um pull-request neste repositório: [Empresas que usam React no Brasil](https://github.com/react-brasil/empresas-que-usam-react-no-brasil). Esta é uma forma alternativa de ser encontrado por pessoas que querem trabalhar com React ou tecnologias do mesmo ecosistema.
 
 ## Slack da comunidade brasileira
-https://react.now.sh (+14k membros!)
+https://react.now.sh (+15k membros!)
 
 ### Outros repositórios de vagas
 
