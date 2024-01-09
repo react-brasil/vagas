@@ -9,7 +9,7 @@
 
 <br>
 
-[![Slack](https://img.shields.io/badge/-Slack%20da%20comunidade%20%28%2B15k%20membros%29-212121?&labelColor=61DAFB&logo=slack&logoColor=212121&link=https://react.now.sh/)](https://react.now.sh/)
+[![Slack](https://img.shields.io/badge/-Slack%20da%20comunidade%20%28%2B17k%20membros%29-212121?&labelColor=61DAFB&logo=slack&logoColor=212121&link=https://react.now.sh/)](https://react.now.sh/)
 [![](https://img.shields.io/badge/-Empresas%20que%20usam%20React%20no%20Brasil-333333)](https://github.com/react-brasil/empresas-que-usam-react-no-brasil)
 [![](https://img.shields.io/badge/-React%20Conf%20Brasil-61DAFB)](https://reactconf.com.br/)
 	
@@ -56,7 +56,7 @@ Você pode receber atualizações das vagas no seu email ou via notificações d
 Neste caso, seria bem interessante você abrir um pull-request neste repositório: [Empresas que usam React no Brasil](https://github.com/react-brasil/empresas-que-usam-react-no-brasil). Esta é uma forma alternativa de ser encontrado por pessoas que querem trabalhar com React ou tecnologias do mesmo ecosistema.
 
 ## Slack da comunidade brasileira
-https://react.now.sh (+15k membros!)
+https://react.now.sh (+17k membros!)
 
 ### Outros repositórios de vagas
 
